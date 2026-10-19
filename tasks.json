@@ -9,7 +9,11 @@
         "text": "вапва",
         "author": "Антон"
       }
-    ]
+    ],
+    "assignee": "Антон",
+    "dueDate": "2026-12-12",
+    "priority": "urgent",
+    "fileLink": ""
   },
   {
     "id": "1792392297743",
