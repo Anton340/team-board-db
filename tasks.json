@@ -31,7 +31,11 @@
         "text": "сми",
         "author": "Антон"
       }
-    ]
+    ],
+    "assignee": "",
+    "dueDate": "",
+    "priority": "urgent",
+    "fileLink": ""
   },
   {
     "id": "1792396786275",
