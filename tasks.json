@@ -2,12 +2,12 @@
   {
     "id": "1792392098302",
     "title": "Проверить доску",
-    "status": "in-progress"
+    "status": "todo"
   },
   {
     "id": "1792392297743",
     "title": "ПРОверить обновление",
-    "status": "in-progress",
+    "status": "done",
     "comments": [
       {
         "id": 1792405391198,
