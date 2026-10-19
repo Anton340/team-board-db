@@ -19,6 +19,13 @@
   {
     "id": "1792396786275",
     "title": "Роман проверяет",
-    "status": "in-progress"
+    "status": "in-progress",
+    "comments": [
+      {
+        "id": 1792405492224,
+        "text": "вапти",
+        "author": "Антон"
+      }
+    ]
   }
 ]
